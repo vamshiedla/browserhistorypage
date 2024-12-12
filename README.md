@@ -1,5 +1,3 @@
-Here you go, with the bold formatting removed:
-
 ### Project: Browser History App
 
 In this project, I developed a Browser History app using React to enhance my understanding of core concepts like state management, conditional rendering, and handling events. Below are the key details of the project:
