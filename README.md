@@ -60,5 +60,4 @@ In this project, I developed a Browser History app using React to enhance my und
 
 ---
 
-### Conclusion
-The Browser History app is an interactive and responsive project that combines fundamental React concepts with practical UI design. It helped me understand how to build dynamic, user-friendly interfaces while following best practices in coding and accessibility.
+
